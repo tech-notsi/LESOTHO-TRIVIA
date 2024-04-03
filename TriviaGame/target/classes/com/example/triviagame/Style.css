@@ -1,0 +1,13 @@
+.root {
+        -fx-background-image: url("image3.jpg");
+        -fx-background-repeat: no-repeat;
+        -fx-background-size: contain;
+        -fx-color: white;
+        -fx-font-weight: 900;
+        -fx-font-size: 18;
+        -fx-font-color: transparent;
+}
+#label {
+    -fx-color: red;
+    -fx-font-weight: 700;
+}
